@@ -1,3 +1,8 @@
+# develope by Rajkumar Sisodia
+
+# follow this commands
+1 npm install
+2 for run project npm start or ng serve or ng s
 # DemoLogin
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.1.
